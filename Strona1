@@ -1,0 +1,53 @@
+# Projekt1
+<!DOCTYPE HTML>
+<html lang="pl">
+<head>
+	<meta charset="utf-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	
+	<title>Strona główna z cv</title>
+	
+	<meta name="description" content="Moja Strona" />
+	<meta name="keywords" content="CV, Piotr Witkowski, strona, html5, css, xhtml" />
+	
+	<link rel="stylesheet"  href= "style.css"  type="text/css" />
+	<link href="https://fonts.googleapis.com/css?family=Lato:400,900&amp;subset=latin-ext" rel="stylesheet">
+	
+</head>
+<body>
+	<div id="container">
+		<div id="logo">
+			To są moje strony CV 
+		</div>
+		<div id="sidebar">
+		<a href="cvhtmldiv.html"  class="tilelinkhtml5">
+			<div class="optionL">CV HTML5(div)</div>
+				</a>
+		<a href="cvxhtmldiv.html" class="tilelinkhtml5">
+				<div class="optionL">CV XHTML(div)</div> 
+			</a>
+			<a href="cvhtml(table).html"  class="tilelinkhtml5">
+				<div class="optionL">CV HTML5(table)</div> 
+			</a>
+			<a href="cvxhtml(table).html" class="tilelinkhtml5">
+				<div class="optionL">CV XHTML(table)</div> 
+			</a>
+			
+		</div>
+		<div id="content">
+		
+			
+			<div class="dottedline"></div>
+					<h1>Piotr Witkowski</h1>
+					Witaj na mojej stronie<br/>
+					Będę tutaj zamieszczał moje projekty <br/>
+					
+					
+		</div>
+		<div id="footer">
+			Strony CV Piotr Witkowski &copy; Wszelkie prawa zastrzeżone
+		</div>
+	
+	</div>
+
+</body>
