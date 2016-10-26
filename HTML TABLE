@@ -1,0 +1,91 @@
+<!DOCTYPE HTML>
+<html lang="pl">
+<head>
+	<meta charset="utf-8" />
+	<title>CV Piotr Witkowski</title>
+	<meta name="description" content="CV Piotr Witkowski" />
+	<meta name="keywords" content="CV, Piotr Witkowski, strona, html5, css, xhtml" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	<link href="https://fonts.googleapis.com/css?family=Lato:400,900&amp;subset=latin-ext" rel="stylesheet">
+		<link rel="stylesheet"  href= "cvhtmltable.css"  type="text/css" />
+
+</head>
+	
+<body>
+
+
+	
+	<table class="cv">
+		<tr >
+				<td colspan="2">
+					<h1>Curriculum vitae</h1>
+				</td>
+		</tr>
+		<tr>
+				<td class="lewy">
+					<h2>Piotr Witkowski</h2>
+					<br/>
+						Numer telefonu: 500135485<br/>
+						e-mail:  piotr.witkowski.S@ee.pw.edu.p<br/>
+						Miejsce zamieszkania: ul.Wspólna 3 09-200 Sierpc
+
+				</td>
+				<td  class="prawy" >
+					<img src="Pingwiny.jpg"  alt="Tu powinno być zdjęcie" width="200" height="228" />
+				</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+					<h2>Wykształcenie</h2>
+					<ul>
+						<li>2016- Student Informatyki na Politechnice Warszawskiej na wydziale Elektrycznym </li>
+						<li>2015-2016 Student Autoamtyki i Robotyki na Politechnice Warszawskiej na wydziale Elektrycznym </li>
+						<li>2012-2015 Uczeń Liceum Ogólnokształcącego im. mjra Henryka Sucharskiego w Sierpcu </li>
+					</ul>
+				</td>
+		
+		</tr>
+		<tr>
+			<td colspan="2">
+					<h2>Umiejętności</h2>
+						<ul>
+							<li>Programowanie w językach: Java, C</li>
+							<li>Obsługa sieci: Certyfikat CCNA Routing and Switching: Introduction to Networks</li>
+							<li>Podstawy HTML5, XHTML, CSS</li>
+							<li>Język Angielski- poziom zaawansowany</li>
+							<li>Język Niemiecki- komunikatywny</li>
+						</ul>
+				</td>
+		
+			</tr>
+			<tr>
+				<td colspan="2">
+					<h2>Zainteresowania</h2>
+						<ul>
+							<li>Interesuję się muzyką rock</li>
+							<li>Czytanie książek  szczególnie fantasy</li>
+							<li>Filmy</li>
+							<li>Jazda na rowerze</li>
+						</ul>
+		
+			</tr>
+			<tr>
+				<td class="footer" colspan="2">
+					Wyrażam zgodę na przetwarzanie moich danych osobowych dla potrzeb niezbędnych do realizacji procesu rekrutacji.<br/>
+					Aby powrócić do strony startowej naciśnij <a href="index.html" >tutaj</a>						
+				</td>
+			</tr>
+	</table>
+	<p class="walidatory">		
+			<a href="http://validator.w3.org/check?uri=referer">
+			<img src="http://www.w3.org/Icons/valid-html401"
+			alt="Valid HTML 5 Transitional" height="31" width="88"></a>
+
+			<a href="http://jigsaw.w3.org/css-validator/check/referer">
+			<img style="border:0;width:88px;height:31px"
+			src="http://jigsaw.w3.org/css-validator/images/vcss"
+			alt="Poprawny CSS!" />
+			</a>
+		</p>
+</body>
+</html>
