@@ -1,0 +1,60 @@
+body{
+	background-color: #FAEBD7;
+	font-family: 'Lato', sans-serif;
+
+}
+h1{
+	font-size:44px;
+	letter-spacing:3px;
+	text-align: center;
+	
+}
+h2{
+
+	font-size:32px;
+	font-weight:900;
+	letter-spacing:3px;
+	
+}
+table.cv{
+	margin: 5px auto;
+	width: 1000px;
+	background-color: #ffffff;
+
+
+}
+table td{
+	border-bottom:2px dotted #444444;
+	vertical-align: top;
+	padding: 20px;	
+}
+td.prawy{
+		border-left:2px dotted #444444;
+		width:50%; 
+		text-align: center;
+}
+a{
+	color:#000000;
+	text-decoration:none;
+	text-decoration: underline;
+	font-style: italic;
+	
+	
+}
+td.footer{
+		clear: both;
+	font-style: italic;
+	text-align: center;
+	padding: 20px;
+	font-size: 14px;
+	
+}
+td.lewy{
+	width:50%;
+	font-size: 20px;
+	
+}
+p.walidatory{
+		text-align: center;
+	
+}
